@@ -1,0 +1,8 @@
+{
+  "name": "TheS Hotel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "1f63e76f"
+}
